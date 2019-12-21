@@ -1,6 +1,6 @@
 # earth2mars :earth_asia: :rocket:  :new_moon:
 
-A little interplanetary experiement done in p5.js
+A little inter-planetary experiement done in p5.js
 
 
 ## Author
